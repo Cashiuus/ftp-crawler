@@ -1,0 +1,12 @@
+# Python
+*.pyc
+__pycache__/*
+
+# Virtualenvs
+.venv
+
+# Application
+*.log
+
+# Project-specific
+saved/*
